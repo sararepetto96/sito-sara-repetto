@@ -1,0 +1,5 @@
+SITO SARA REPETTO — Anteprima aggiornata
+
+Aprire index.html nel browser. Contatti inseriti; pagina privacy.html collegata nel footer.
+
+PRIMA DELLA PUBBLICAZIONE: verificare il testo privacy rispetto al servizio GitHub Pages effettivamente configurato, ai suoi log, alle politiche di conservazione e ai trasferimenti; verificare gli eventuali obblighi di esposizione della Partita IVA e gli altri dati professionali. La privacy policy è una bozza informativa, non una verifica legale.
